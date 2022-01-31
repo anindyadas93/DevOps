@@ -4,6 +4,4 @@
 # Copyright (c) Github
 # Script follows here:
 
-echo "What is your name?"
-read NAME
-echo "Hello, $NAME"
+echo "Welcome to Shell Script program"
